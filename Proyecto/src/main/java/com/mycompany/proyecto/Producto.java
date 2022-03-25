@@ -3,6 +3,8 @@ package com.mycompany.proyecto;
 
 public abstract class Producto {
     
+    //**PRUEBA***
+    
     
     protected int cod_producto;
     protected String marca;
