@@ -1,0 +1,5 @@
+1010,Intel,Celeron,32000.0,5,Procesador,Socket: LGA 1200, Familia: Comet Lake, Cores: 2, Threads: 2, Frecuancia: 3.5Ghz
+1011,Hyundai,Hybook,199900.0,2,Computadora,Pantalla: 14 pulgadas - 1366 x 768 resolución, Procesador: Intel Celeron N4020, Memoria: 4 GB DDR4, Graficos: Intel UHD Graphics, SSD: 128 GB, Sistema Operativo: Windows 10, Conectividad: WIFI AC - Bluetooth
+1012,T-Dagger,Bora T-TGK315,18000.0,6,Teclado,Marca: T-Dagger, Tipo de Teclado: Mecanico, LED: RGB, Switch: Blue
+123,prueba,prueba,89000.0,4,prueba,prueba
+124,p,p,75000.0,1,p,p
